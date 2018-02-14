@@ -1,0 +1,23 @@
+{
+  "name": "zad-13-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koonradd/zad-13-5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koonradd/zad-13-5/issues"
+  },
+  "homepage": "https://github.com/koonradd/zad-13-5#readme",
+  "dependencies": {
+    "color": "^3.0.0"
+  }
+}
